@@ -41,6 +41,6 @@ We seek unpublished work that are not currently under reviewed at another venue.
 2-column ACM Proceedings format, using the *sample-sigconf.tex* format (available at
 https://www.acm.org/publications/proceedings-template). 
 
-The maximum length is **8 pages, excluding refrences**. All submissions are single blind.  
+The maximum length is **8 pages, excluding references**. All submissions are single blind.  
 
-All accepted papers will be publised in ACM ICPS, and made available online via the ACM Digital library. 
+All accepted papers will be published in ACM ICPS, and made available online via the ACM Digital library. 
