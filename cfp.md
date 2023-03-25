@@ -25,7 +25,7 @@ The topics of interest include, but not restricted to, the following:
 
 ## Important dates
 
-* Paper submission: **24th March 2023, 23:59pm AoE**
+* Paper submission: ~~24th March 2023, 23:59pm AoE~~  **31st March 2023, 23:39pm AoE (extended)**
 
 * Notification: **28th April 2023, 23:59pm AoE**
 
