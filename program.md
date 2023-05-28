@@ -3,8 +3,8 @@ layout: default
 ---
 # Preliminary Program
 
-#### Date: Friday, 23rd June 2023
-#### Venue: TBA
+#### Date: Friday, June 23, 2023
+#### Venue: Regency E
 
 
 ### Session 1: 
