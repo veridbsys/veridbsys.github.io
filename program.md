@@ -11,7 +11,7 @@ layout: default
 * 8:30      
     Opening & Welcome
 * 8:40 - 9:35   
-    Keynote 1: Olya Ohrimenko  
+    Keynote 1: Olya Ohrimenko (University of Melbourne) 
     Title: Verifiable Machine Unlearning: Was I really forgotten?  
     *Abstract: The right to be forgotten entitles individuals to request for their data to be deleted by a service provider who collects their data. Since data is often used to train machine learning models (e.g., to improve user experience), Machine Unlearning has been proposed as a way to remove data points from a model. However, how does the user know that the service provider indeed executed Machine Unlearning? The problem is not trivial as model parameters may be the same before and after data deletion. In this talk, I propose to view Machine Unlearning as a security problem. To this end, I will give an overview of the first cryptographic definition of verifiable unlearning that formally captures the guarantees of a machine unlearning system. I will then show one possible instantiation of this general definition based on cryptographic assumptions and protocols, using SNARKs and hash chains. I will conclude my talk with open questions including consequences of unlearning for data privacy.*
     
