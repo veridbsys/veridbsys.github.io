@@ -26,8 +26,8 @@ layout: default
 ### Break: 10:30 - 11:00
 ### Session 2: 
 * 11:00 - 11:40      
-    (Invited talk) Demystifying the data in a distributed ledger to optimize system performance      
-    *Jeeta Chacko (Technical University of Munich)*
+    (Invited talk) Verifiable Query Processing in Blockchain Systems     
+    *Jianliang Xu, Department of Computer Science at Hong Kong Baptist University*
 
 * 11:40 - 12:05     
     Scaling Zero-Knowledge to Verifiable Databases   
@@ -41,9 +41,10 @@ layout: default
 
 ### Session 3: 
 * 13:30 - 14:10     
-    (Invited talk) Verifiable Query Processing in Blockchain Systems     
-    *Jianliang Xu, Department of Computer Science at Hong Kong Baptist University*
-    
+    (Invited talk) Demystifying the data in a distributed ledger to optimize system performance      
+    *Jeeta Chacko (Technical University of Munich)*
+
+        
 * 14:10 - 14:50     
     (Invited talk) SQL Ledger – Cryptographically Verifiable Data in Azure SQL – Sharing the learnings from two years in production  
     *Panagiotis Antonopoulos (Microsoft)*
