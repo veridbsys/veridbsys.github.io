@@ -1,7 +1,7 @@
 ---
 layout: default 
 ---
-# Preliminary Program
+# Program
 
 #### Date: Friday, June 23, 2023
 #### Venue: Regency E
