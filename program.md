@@ -7,7 +7,7 @@ layout: default
 #### Venue: Regency E
 
 
-### Session 1: 
+### Session 1 (Chair: Xinying Yang) 
 * 8:30      
     Opening & Welcome
 * 8:40 - 9:35   
@@ -24,7 +24,7 @@ layout: default
     *Abstract: In this talk, I will start with an overview of Singapore Blockchain Innovation Programme (SBIP), which is a national programme supported by the National Research Foundation of Singapore through a S$12 million grant for 3 years. SBIP has three key objectives: (i) working with local Singaporean companies in adopting blockchain technology through Proof-of-Concept and Proof-of-Value projects, (ii) developing the blockchain ecosystem in Singapore and (iii) conducting research into the next-generation of blockchain technologies. Next, I will present a few use cases where SBIP worked with companies in researching and implementing Proofs-of-Concept projects. The domains of these projects include FinTech, supply chain, asset management, and cybersecurity. Finally, I will present some of the challenges companies face in adopting blockchain and some future directions.*
 
 ### Break: 10:30 - 11:00
-### Session 2: 
+### Session 2 (Chair: Dumitrel Loghin)
 * 11:00 - 11:40      
     (Invited talk) Verifiable Query Processing in Blockchain Systems     
     *Jianliang Xu, Department of Computer Science at Hong Kong Baptist University*
@@ -39,7 +39,7 @@ layout: default
 
 ### Lunch: 12:30 - 13:30
 
-### Session 3: 
+### Session 3 (Chair: Meihui Zhang) 
 * 13:30 - 14:10     
     (Invited talk) Demystifying the data in a distributed ledger to optimize system performance      
     *Jeeta Chacko (Technical University of Munich)*
@@ -51,7 +51,7 @@ layout: default
 
 ### Break: 15:00 - 15:30
 
-### Session 4:
+### Session 4 (Chair: Cong Yue)
 * 15:30 - 16:10     
     (Invited talk) When Private Blockchain Meets Deterministic Database      
     *Eric Lo  Computer Science and Engineering (CSE) at the Chinese University of Hong Kong (CUHK)*
