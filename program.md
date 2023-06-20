@@ -4,7 +4,7 @@ layout: default
 # Program
 
 #### Date: Friday, June 23, 2023
-#### Venue: Regency E
+#### Venue: Room Cedar A
 
 
 ### Session 1 (Chair: Xinying Yang) 
